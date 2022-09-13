@@ -1,0 +1,6 @@
+math.floor()
+arredonda o numero pra baixo
+math.cell()
+arredonda o numero pra cima
+math.random()
+retorna um numero pseudoaleatorio entre 0 e 1
